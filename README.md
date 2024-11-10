@@ -9,10 +9,16 @@
 The game prompts the player to choose between three options:
 
 0 for PEDRA (Rock)
+
 1 for PAPEL (Paper)
+
 2 for TESOURA (Scissors)
+
 The computer randomly selects one of the three options, and then both the computer's and player's choices are revealed with a dramatic "JO-KEM-PO" countdown. The game then announces the winner or a draw based on the standard rules:
 
-Rock crushes Scissors
-Scissors cut Paper
-Paper covers Rock
+
+--Rock crushes Scissors
+
+--Scissors cut Paper
+
+--Paper covers Rock
